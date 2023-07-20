@@ -7,13 +7,6 @@ Star this repo to stay notified of the changes to come
 
 Let's get started !
 
-**General** 
-
-- Simplicity over complexity
-- Use active voice
-- Short sentences and paragraphs
-- Try to use visuals to explain your concepts
-
 > *Disclaimer- please note that most of the text below are excerpts gotten directly from the respective sites of each course and not from me*
 > 
 
