@@ -45,6 +45,9 @@ The course teaches you the fundamentals of technical writing. After completing t
 
 Link - [click here to view the course](https://developers.google.com/tech-writing/overview) 
 
+
+
+
 *Note - The Google Technical writing course does a very good job of taking you through the general basics of technical writing and even a little bit more than that, even if you don't end up finishing the course or decide not to take it for whatever reason, the points listed above are enough to take note of to increase your technical writing skills and proficiency.                                 ~Iqma*
 
 - ## Write The Docs
@@ -74,3 +77,8 @@ This site contains lots of articles on technical writing topics, like
   and so on
 
   link to site - [Everything Technical Writing](https://www.everythingtechnicalwriting.com/)
+
+
+------
+
+Star the repo and share it to help others with the resources. Feel free to add resources you have dicovered yourself and feel would be helpful to other new/veteran technical writers
