@@ -26,7 +26,7 @@ learn more about what technical writing is about [here](https://www.freecodecamp
 * **Cybersecurity** is a field that is about keeping the internet and infrastructures safe from cyber threats
     
 
-learn moe about what cybersecurity is about [here](https://iqmacodes.hashnode.dev/an-introduction-to-cybersecurity)
+learn more about what cybersecurity is about [here](https://iqmacodes.hashnode.dev/an-introduction-to-cybersecurity)
 
 * **Machine Learning and Artificial Intelligence(ML/AI)**
     
