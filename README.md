@@ -21,12 +21,12 @@ This is a brief introduction into the fields listed above just in case you need 
 * **Technical writing** is a field in tech that involves the breaking down of complex technical content in a way that can be easily undeerstood by your target audience .
     
 
-learn more about what technical writing is about here
+learn more about what technical writing is about [here](https://www.freecodecamp.org/news/technical-writing-for-beginners/)
 
 * **Cybersecurity** is a field that is about keeping the internet and infrastructures safe from cyber threats
     
 
-learn moe about what cybersecurity is about here
+learn moe about what cybersecurity is about [here](https://iqmacodes.hashnode.dev/an-introduction-to-cybersecurity)
 
 * **Machine Learning and Artificial Intelligence(ML/AI)**
     
