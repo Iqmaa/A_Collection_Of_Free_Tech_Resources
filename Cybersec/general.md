@@ -1,37 +1,35 @@
 Welcome to the Cybersecurity section !
 Below are some of the resources we've discovered that wil prove helpful on your journey into the cybersec field.
 
-GOod luck, and enjoy(emoji)
-
-------
+God luck, and enjoy😎
 
 ## Websites
 
----
+
 ## Books
 
----
+
 ## Blogs
 
----
+
 ## Youtube channels
 
----
+
 ## Helpful videos
 
----
+
 ## Roadmaps
 
----
+
 ## Cheatsheets
 
----
+
 ## Bootcamps
 
----
+
 ## Projects
 
----
+
 ## Influencers
 
 
