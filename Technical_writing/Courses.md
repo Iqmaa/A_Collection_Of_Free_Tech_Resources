@@ -2,7 +2,7 @@
 >
 
 
-- ## **Google Technical writing course**
+## **Google Technical writing course**
 
 **Introduction** 
 
