@@ -1,7 +1,7 @@
 > *Disclaimer- please note that most of the text below are excerpts gotten directly from the respective sites of each course and not from me*
 >
 
-- ## Write The Docs
+## Write The Docs
 
 This site mostly talks about writing documentations which is a huge part of being a technical writer -it also happens to be an imprtant topic fordevelopers too as havinga good documentation can easily make or break your project.
 
@@ -11,7 +11,7 @@ Here's a link to their site - [Write The Docs](https://www.writethedocs.org/)
 
 p.s- they even have template that helps you get started in writing a great first documentation
 
-- ## I'd Rather Be Writing
+## I'd Rather Be Writing
 
 This site has a lot of articles on technical writing and a few other topics. They also have an [API documentation course](https://idratherbewriting.com/learnapidoc/) where you'll take basic lessons like 'introduction to REST APIs' and 'the writing process' to slightly more complex ones that teach you things like 'Using an API like a developer', 'documenting API endpoints', 'Testing API docs', 'Publishing API docs' and so on.
 
@@ -19,7 +19,7 @@ you can also check out there podcast [linked here](https://podcasts.google.com/f
 
 link to site - [I'd Rather Be Writing](https://idratherbewriting.com/)
 
-- ## Everything Technical Writing
+## Everything Technical Writing
 
 This site contains lots of articles on technical writing topics, like
 
@@ -28,6 +28,3 @@ This site contains lots of articles on technical writing topics, like
   and so on
 
   link to site - [Everything Technical Writing](https://www.everythingtechnicalwriting.com/)
-
-
-------
