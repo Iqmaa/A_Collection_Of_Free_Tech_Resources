@@ -4,20 +4,15 @@ This repo contains helpful resources to help enthusiasts in the technical writin
 
 click the links below to check out resources from a field!
 
-* Technical Writing
+* [Technical Writing](https://github.com/Iqmaa/Technical_writing_resource/blob/main/Technical_writing/general.md)
     
-* Cybersecurity
+* [Cybersecurity](https://github.com/Iqmaa/Technical_writing_resource/blob/main/Cybersec/general.md)
     
-* ML/AI
+* [ML/AI](https://github.com/Iqmaa/Technical_writing_resource/blob/main/ML%26AI/general.md)
     
-
----
-
 ## Aim
 
 The aim of this project is to provide an organised space to help guide techies and tech enthusiasts gain easy access to wide range of resources in their field of choice. By compiling these resources in one place, you and I make it easier for them to gather the required knowledge and information about their field of interest without getting confused and tangled up in the web😊
-
----
 
 ## About
 
@@ -35,19 +30,14 @@ learn moe about what cybersecurity is about here
 
 * **Machine Learning and Artificial Intelligence(ML/AI)**
     
-    this is all about
+    Artificial Intelligence is a field that aims to get machines close to human-like intelligence. Machine Learning is a branch of artificial intelligence that specialises on training these machines to learn from data without being explicitly programmed.
     
-
-learn more about what ML is about here
-
----
+learn more about what ML is about [here](https://iqmacodes.hashnode.dev/what-is-machine-learning)
 
 ## Contributing
 
 your input is highly anticipated and essential to this project. If you have resources that have helped you in your journey that are not here, feel free to create a pull request and add your resource so we can check it out! .
 
-p.s - make sure you do this with the format of the project in mind??
-
----
+p.s - make sure you do this with the format of the project in mind
 
 Don't forget to star the repo and share it to help others with the resources !
