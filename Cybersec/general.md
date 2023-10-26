@@ -18,8 +18,8 @@ A CTF is a game in which participants attempt to find text strings (known as fla
 ## Books
 
 
-## Blogs
-
+## Blog posts
+- [What is Cybersecurity ?](https://iqmacodes.hashnode.dev/an-introduction-to-cybersecurity)
 
 ## Youtube channels
 - [NahamSec](https://www.youtube.com/@NahamSec)
