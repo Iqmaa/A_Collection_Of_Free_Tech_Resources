@@ -4,14 +4,18 @@ Below are some of the resources we've discovered that wil prove helpful on your 
 God luck, and enjoy😎
 
 ## Websites
-- [Try hack me](https://tryhackme.com/)
-  TryHackMe is a free online platfom for teaching beginners various concepts in Cyber security through hands-on experience like exercises and challenges.
+
+- [Over The Wire](https://overthewire.org/wargames/)
+  is a free site that aims to increase your knowledge in cybersecurity through CTF games, which stands for Capture The Flag. It has increasing level of difficulty and is highly recommended for beginners.
   
 - [Hack The Box](https://www.hackthebox.com/about-us)
-  HackTheBox is a site that focuses on hacking challenges and aims to provide learners with an interesting gamified learning environment. It's audience range is slightly different from TryHackMe in the sense that it has advanced level resources in addition to its beginner courses unlike TryHackMe.
+ is a site that focuses on hacking challenges and aims to provide learners with an interesting gamified learning environment. It's audience range is slightly different from TryHackMe in the sense that it has advanced level resources in addition to its beginner courses unlike TryHackMe.
 
 - [Pico CTF](https://www.picoctf.org/)
-  PicoCTF is also a free cybersec resource like TryHackMe that helps participants expand their skill base with the use of cybersecurity competitions called CTFs, which stands for Capture The Flag. It also has a [Learn](https://picoctf.org/resources.html) section where users who are new to cybersecurity and/or CTFs can learn about the various topics under it.
+ is another free cybersec resource that helps participants expand their skill base also with the use of CTFs. It has a [Learn](https://picoctf.org/resources.html) section where users who are new to cybersecurity and/or CTFs can learn about the various topics under it.
+
+- [Try hack me](https://tryhackme.com/)
+ is a free online platfom for teaching beginners various concepts in Cyber security through hands-on experience like exercises and challenges. (not everything here is free)
 
 A CTF is a game in which participants attempt to find text strings (known as flags) that are hidden in programmes or websites and have to be uncovered by them utilising their cybersecurity knowledge and skills.
 
