@@ -46,6 +46,7 @@ Learn more [here](https://www.bughunter.me/overthewire/)
 
 ## Roadmaps
 
+- [Domain map](https://media.licdn.com/dms/image/C4E12AQFEgFdbEtEl3Q/article-inline_image-shrink_1500_2232/0/1619282900607?e=1704931200&v=beta&t=Hv_XKCSNltHvD2lFKMkpZTH4FoAQeUON7sewBFnxo-I)
 
 ## Cheatsheets
 
