@@ -12,7 +12,13 @@ GOod luck, and have fun!
 
 
 ## Youtube channels
-
+[Daniel Bourke](https://www.youtube.com/@mrdbourke)
+[Data Professor](https://www.youtube.com/@DataProfessor)
+[Smitha Kolan](https://www.youtube.com/@SmithaKolan)
+[Ken Jee](https://www.youtube.com/@KenJee_ds)
+[Tina Huang](https://www.youtube.com/@TinaHuang1)
+[Jordan Harrod](https://www.youtube.com/@JordanHarrod)
+[Tech with Tim](https://www.youtube.com/@TechWithTim)
 
 ## Helpful videos
 
