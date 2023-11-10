@@ -1,6 +1,6 @@
 Welcome to the Machine Learning(ML) and Artificial Intelligence(AI) section. Below are some of the resources we've discovered that will prove helpful on your journey into the ML/AI field.
 
-GOod luck, and have fun!
+Good luck, and have fun!
 
 ## Websites
 
