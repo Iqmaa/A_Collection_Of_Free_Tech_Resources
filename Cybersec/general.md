@@ -21,6 +21,9 @@ A CTF is a game in which participants attempt to find text strings (known as fla
 
 Learn more [here](https://www.bughunter.me/overthewire/)
 
+## Free courses and certifications
+
+ 
 ## Books
 
 
