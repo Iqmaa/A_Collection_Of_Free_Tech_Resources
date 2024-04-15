@@ -1,7 +1,7 @@
 Welcome to the Cybersecurity section !
 Below are some of the resources we've discovered that wil prove helpful on your journey into the cybersec field.
 
-God luck, and enjoy😎
+Good luck, and enjoy😎
 
 ## Websites
 
@@ -65,9 +65,10 @@ Learn more [here](https://www.bughunter.me/overthewire/)
 
 ## Bootcamps / Bootcamp organisers
 
+- [CybersecHaven](https://linktr.ee/cybersechaven)
 - [Cyber Girls Fellowship (for females only)](https://cybersafefoundation.org/cybergirls/)
 - [Women Techsters Fellowship (for females only)](https://www.linkedin.com/school/tech4dev/)
-- [CybersecHaven](https://linktr.ee/cybersechaven)
+
 
 ## Project Ideas
 
