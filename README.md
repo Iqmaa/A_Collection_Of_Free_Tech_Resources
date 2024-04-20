@@ -1,3 +1,5 @@
+![A Collection of Free Tech Resources](https://github.com/Iqmaa/A_Collection_Of_Free_Tech_Resources/blob/main/ACOFTR.png)
+
 ## Intro
 
 This repo contains helpful resources to help enthusiasts in the technical writing, ML, and cybersecurity space. Filled with information on courses, sites, books, and various other **Free** resources to help grow your understanding and expertise in your field of interest.
